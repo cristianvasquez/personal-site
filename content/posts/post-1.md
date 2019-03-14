@@ -1,9 +1,6 @@
----
-author: "Cristian Vasquez"
-date: 2014-09-28
-linktitle: Test 1
-title: Test 1
-weight: 10
++++
+title = "Test 1"
+description = "1"
 tags = [
     "go",
     "golang",
@@ -15,7 +12,7 @@ categories = [
     "Development",
     "golang",
 ]
----
++++
 
 ## Introduction
 
