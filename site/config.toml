@@ -1,6 +1,6 @@
 baseurl = "https://cristianvasquez.me/"
 languageCode = "en-us"
-title = "Cristian Vasquez site"
+title = "Cristian Vasquez"
 theme = "cvasquez"
 author = "Cristian"
 copyright = "&copy; 2017. All rights reserved."
@@ -13,7 +13,7 @@ paginate = 10
 
 [params]
   # Shown in the home page
-  subtitle = "Cristian Vasquez"
+  subtitle = "Personal Website"
   brand = "cvasquez"
   googleAnalytics = "UA-113375896-1"
   disqus = "disqus_kdzDsDfQET"
@@ -43,7 +43,7 @@ paginate = 10
     url = "/about/"
   [[menu.main]]
     name = "Tags"
-    pre = "<i class='fa fa-list fa-fw'></i>"
+    pre = "<i class='fa fa-tags fa-fw'></i>"
     weight = 2
     identifier = "tags"
     url = "/tags/"
