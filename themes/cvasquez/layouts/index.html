@@ -6,12 +6,32 @@
 </div>
 
 <div class="content">
+Loves software, engineering, semantics & meaning, society... and others.
+</div>
+<div class="content">
+  {{ range .Data.Pages }}
+  {{ .Render "summary"}}
+  {{ end }}
+</div>
+
+
+<!-- <div class="content">
+  {{ range .Data.Pages.GroupByDate "2006" }}
+  <h2>{{ .Key }}</h2>
+  <ul>
+    {{ range .Pages }}
+    {{ .Render "li" }}
+    {{ end }}
+  </ul>
+  {{ end }}
+</div> -->
+
+<!-- <div class="content">
   {{ range ( .Paginate (where .Data.Pages "Type" "post")).Pages }}
     {{ .Render "summary"}}
   {{ end }}
 
   {{ partial "pagination.html" . }}
-
-</div>
+</div> -->
 
 {{ partial "footer.html" . }}

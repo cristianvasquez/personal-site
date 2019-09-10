@@ -1,12 +1,12 @@
 +++
 title = "Semantics between PODs"
-description = "1"
+description = "Different people, different ways"
 tags = [
     "SOLID",
     "interoperability",
     "article-seed"
 ]
-date = "2018-04-02"
+date = "2018-03-02"
 categories = [
     "Article"
 ]
@@ -27,4 +27,3 @@ Also, our mental models also change, being heavily influenced by our environment
 How we interconnect several dataspaces in a network where the information is decentrally organized?
 
 I believe that instead of categorizing all ourselves,  is preferable to evolve semantics with our close peers collectively.
-

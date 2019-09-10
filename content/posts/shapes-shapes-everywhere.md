@@ -1,6 +1,6 @@
 +++
-title = "Network of interconnected PODs"
-description = "Just the Web"
+title = "Shapes, shapes everywhere!"
+description = "1"
 tags = [
     "SOLID",
     "interoperability",
