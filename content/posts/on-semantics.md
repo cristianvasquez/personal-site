@@ -1,6 +1,6 @@
 +++
 title = "On Semantics"
-description = "Some thoughts about semantics"
+description = "Some thoughts"
 tags = [
     "interoperability",
     "article-seed"
