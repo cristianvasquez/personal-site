@@ -15,7 +15,7 @@ categories = [
 
 ## So many schemas
 
-In the ML context, we put considerable effort into cleaning, transforming, and making sense of the data captured or exchanged between different systems. We prefer data with structure, and we want to be able to understand that structure. 
+When doing Machine Learning, we put considerable effort into cleaning, transforming, and making sense of the data captured or exchanged between different systems. We prefer data with structure, and we want to be able to understand that structure. 
 
 Some data comes from APIs using vocabularies or schemas that allow us to make sense of the data. But to a certain extent, we still need to spend considerable effort into understanding the models underneath. Each organization described their data differently, with different intended meanings forcing us to code the necessary mappings and transformations to accomplish our task.
 
