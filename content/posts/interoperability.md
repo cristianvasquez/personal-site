@@ -1,9 +1,9 @@
 +++
 title = "Interoperability on Information Systems"
-description = "Description"
+description = ""
 tags = [
     "interoperability",
-    "glossary"
+    "diversity"
 ]
 date = "2012-04-04"
 categories = [
