@@ -13,7 +13,7 @@ categories = [
 ]
 +++
 
- ## So many schemas
+## So many schemas
 
 In the ML context, we put considerable effort into cleaning, transforming, and making sense of the data captured or exchanged between different systems. We prefer data with structure, and we want to be able to understand that structure. 
 
@@ -23,7 +23,7 @@ I believe that Machine learning can help to make the data-processing tasks easie
 
 And also diminish our suffering and time spent in transforming data from one form into another.
 
- ### Emergent Semantics
+### Emergent Semantics
 
 We understand Emergent Semantics (ES) as a self-organizing process, in which agreements on the interpretation of data are established locally, following an incremental, bottom-up approach. The idea of emergent semantics is not new, and it refers to how multiple computer agents can reach acceptable degrees of interoperability through self-organizing processes.
 
