@@ -1,5 +1,5 @@
 +++
-title = "Semantics between PODs"
+title = "So many schemas"
 description = "developer rant"
 tags = [
     "ML",
@@ -12,6 +12,7 @@ categories = [
     "Article"
 ]
 +++
+
  ## So many schemas
 
 In the ML context, we put considerable effort into cleaning, transforming, and making sense of the data captured or exchanged between different systems. We prefer data with structure, and we want to be able to understand that structure. 

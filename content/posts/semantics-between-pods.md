@@ -14,7 +14,7 @@ categories = [
 
 ## Problem
 
-To use the data from a [network of interconnected PODs](../network-of-interconnected-pods) in our day to day activities, we need to manage it in a way that is easy to consume; but this is not necessarily an easy task. All people find their own ways to organize their data, such as categorizing files in folders, labeling messages, etc. To classify or tag our information effectively is difficult and time-consuming, and we incur into high cognitive costs when building relations and describing resources, and furthermore, this organization does not hold for long periods. The attendant fragmentation of personal information increases the probability of keeping something in the wrong place and forgetting something that was seen, heard, or read in the first place.
+To use the data from a network of interconnected PODs in our day to day activities, we need to manage it in a way that is easy to consume; but this is not necessarily an easy task. All people find their own ways to organize their data, such as categorizing files in folders, labeling messages, etc. To classify or tag our information effectively is difficult and time-consuming, and we incur into high cognitive costs when building relations and describing resources, and furthermore, this organization does not hold for long periods. The attendant fragmentation of personal information increases the probability of keeping something in the wrong place and forgetting something that was seen, heard, or read in the first place.
 
 We want to manage our data in a way we can interact with others, but how to do it without expending excessive cognitive efforts?
 

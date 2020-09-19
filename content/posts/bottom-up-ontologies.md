@@ -1,5 +1,5 @@
 +++
-title = "Bottom-up and Ontologies"
+title = "Bottom-up ontologies"
 description = ""
 tags = [
     "ontology",
@@ -11,7 +11,7 @@ categories = [
 ]
 +++
 
-## Bottom-up and Ontologies
+## Bottom-up ontologies
 
 Ontologies are artifacts used to reduce gaps in the interpretation of data between peers.
 
