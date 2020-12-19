@@ -5,6 +5,3 @@ sidemenu = "true"
 description = "About me and this site"
 +++
 
-This is the about section
-
-Thanks for reading!
